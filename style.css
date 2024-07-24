@@ -50,7 +50,7 @@ table {
 /*start here↓*/
 *,
 *::before,
-::after {
+*::after {
   box-sizing: border-box;
   /*outline: solid 1px;*/
 }
